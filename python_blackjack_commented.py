@@ -132,4 +132,4 @@ if __name__ == "__main__":
    game()
 
 # Code from the following repository: https://gist.github.com/mjhea0/5680216
-# Code by mjhea0, commented by me
+# Original code by mjhea0, comments added by me
